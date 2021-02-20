@@ -1,0 +1,7 @@
+C:\Users\nikef\OneDrive\Рабочий стол\LR2-main\ЛР2ТП\Products\obj\Debug\Products_wkv3xt4o_wpftmp.csprojAssemblyReference.cache
+C:\Users\nikef\OneDrive\Рабочий стол\LR2-main\ЛР2ТП\Products\obj\Debug\Products.g.resources
+C:\Users\nikef\OneDrive\Рабочий стол\LR2-main\ЛР2ТП\Products\obj\Debug\Products.Properties.Resources.resources
+C:\Users\nikef\OneDrive\Рабочий стол\LR2-main\ЛР2ТП\Products\obj\Debug\Products_wkv3xt4o_wpftmp.csproj.GenerateResource.cache
+C:\Users\nikef\OneDrive\Рабочий стол\LR2-main\ЛР2ТП\Products\obj\Debug\Products_wkv3xt4o_wpftmp.csproj.CoreCompileInputs.cache
+C:\Users\nikef\OneDrive\Рабочий стол\LR2-main\ЛР2ТП\Products\obj\Debug\Products.exe
+C:\Users\nikef\OneDrive\Рабочий стол\LR2-main\ЛР2ТП\Products\obj\Debug\Products.pdb

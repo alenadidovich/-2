@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\nikef\\OneDrive\\Рабочий стол\\LAB2-main\\LR2-main\\ЛР2ТП\\ЛР2\\ЛР2Console\\ЛР2Console.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\nikef\\OneDrive\\Рабочий стол\\LAB2-main\\LR2-main\\ЛР2ТП\\ЛР2\\ЛР2Console\\ЛР2Console.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nikef\\OneDrive\\Рабочий стол\\LAB2-main\\LR2-main\\ЛР2ТП\\ЛР2\\ЛР2Console\\ЛР2Console.csproj",
+        "projectName": "ЛР2Console",
+        "projectPath": "C:\\Users\\nikef\\OneDrive\\Рабочий стол\\LAB2-main\\LR2-main\\ЛР2ТП\\ЛР2\\ЛР2Console\\ЛР2Console.csproj",
+        "packagesPath": "C:\\Users\\nikef\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nikef\\OneDrive\\Рабочий стол\\LAB2-main\\LR2-main\\ЛР2ТП\\ЛР2\\ЛР2Console\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nikef\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
